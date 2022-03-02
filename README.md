@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @soniachanchee
+- 👋 Hi, I’m Sonia
 - 👀 I’m interested in web development and Android app creation
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on an Android game
+- 🌱 I’m currently learning web dev
 - 📫 How to reach me: send a message
 
 <!---
