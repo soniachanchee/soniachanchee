@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **soniachanchee@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/Tq0QtJhVr](https://resume.io/r/Tq0QtJhVr)
-
 - ⚡ Fun fact **I laugh at anything**
 
 <h3 align="left">Connect with me:</h3>
